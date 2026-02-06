@@ -4,7 +4,7 @@ CVE-2026-25253 安全漏洞中文解读
 
 ## 在线阅读
 
-GitHub Pages 地址将在部署后更新。
+**GitHub Pages:** https://joseph19820124.github.io/openclaw-vuln-report/
 
 ## 漏洞摘要
 
